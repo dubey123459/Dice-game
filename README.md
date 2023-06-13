@@ -1,5 +1,5 @@
 # 🎲 Dice Roll Game - README
-
+**Deployedlink:** https://dubey123459.github.io/Dice-game/
 Welcome to the Dice Roll Game project! This project allows you to experience the excitement of rolling virtual dice,and challenging your luck. Built using HTML, CSS, and JS, this game offers an engaging and entertaining gaming experience.
 
 ## Installation ⚙️
